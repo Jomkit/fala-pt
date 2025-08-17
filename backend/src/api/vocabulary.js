@@ -7,7 +7,29 @@ const router = express.Router();
  * Get all vocabulary
  */
 router.get('/', (req, res) => {
-    res.send("All vocabulary");
+    res.json({"msg": "All vocabulary"});
 })
 
-export { router as default };
+/**
+ * Add new vocabulary
+ */
+router.post('/', (req, res) => {
+    res.status(201).json({"msg": "New vocab added"});
+})
+
+/**
+ * Update vocab entry
+ */
+
+router.put('/', (req, res) => {
+    res.status(200).send("Vocab updated");
+})
+
+/**
+ * Delete vocab entry
+ */
+router.delete('/', (req, res) => {
+    res.status(200).send("Vocab deleted");
+})
+
+export default router;
