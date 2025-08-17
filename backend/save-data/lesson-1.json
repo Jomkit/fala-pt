@@ -1,0 +1,517 @@
+{
+  "title": "Lição 1 – Português para principiantes",
+  "vocab": {
+    "Countries – Países": [
+      [
+        "a Alemanha",
+        "Germany"
+      ],
+      [
+        "o Brasil",
+        "Brazil"
+      ],
+      [
+        "o Canadá",
+        "Canada"
+      ],
+      [
+        "a Espanha",
+        "Spain"
+      ],
+      [
+        "os Estados Unidos",
+        "United States"
+      ],
+      [
+        "a França",
+        "France"
+      ],
+      [
+        "a  Inglaterra",
+        "England"
+      ],
+      [
+        "o México",
+        "Mexico"
+      ],
+      [
+        "Portugal",
+        "Portugal"
+      ],
+      [
+        "a Rússia",
+        "Russia"
+      ]
+    ],
+    "Nationalities – Nacionalidades": [
+      [
+        "o/a americano, -a",
+        "American"
+      ],
+      [
+        "o/a brasileiro, -a",
+        "Brazilian"
+      ],
+      [
+        "o/a mexicano, -a",
+        "Mexican"
+      ],
+      [
+        "o francês, a francesa",
+        "French"
+      ],
+      [
+        "o inglês, a inglesa",
+        "English"
+      ],
+      [
+        "o português, a portuguesa",
+        "Portuguese"
+      ],
+      [
+        "o/a espanhol, + a",
+        "Spanish, Spaniard"
+      ],
+      [
+        "o/a canadense",
+        "Canadian"
+      ],
+      [
+        "o alemão, a alemã",
+        "German"
+      ]
+    ],
+    "Professions – Profissões": [
+      [
+        "o/a advogado, -a",
+        "lawyer"
+      ],
+      [
+        "o/a aluno, -a",
+        "student"
+      ],
+      [
+        "o/a arquiteto, -a",
+        "architect"
+      ],
+      [
+        "o/a atleta",
+        "athlete"
+      ],
+      [
+        "o/a cantor, +a",
+        "singer"
+      ],
+      [
+        "o/a comerciante",
+        "businessperson"
+      ],
+      [
+        "o/a dentista",
+        "dentist"
+      ],
+      [
+        "o/a engenheiro, -a",
+        "engineer"
+      ],
+      [
+        "o/a escritor, + a",
+        "writer, author"
+      ],
+      [
+        "o/a estudante",
+        "student"
+      ],
+      [
+        "o/a funcionário, -a",
+        "employee, civil servant"
+      ],
+      [
+        "o garçom / a garçonete",
+        "waitperson"
+      ],
+      [
+        "o/a gerente",
+        "manager"
+      ],
+      [
+        "o/a jornalista",
+        "journalist"
+      ],
+      [
+        "o/a médico, -a",
+        "doctor"
+      ],
+      [
+        "o/a professor, +a",
+        "teacher, professor"
+      ],
+      [
+        "o/a psicólogo, -a",
+        "psychologist"
+      ]
+    ],
+    "Cardinal numbers from 1 to 10 – Números cardinais de 1 a 10": [
+      [
+        "zero",
+        "zero"
+      ],
+      [
+        "um (masc.), uma (fem.)",
+        "one"
+      ],
+      [
+        "dois (masc.), duas (fem.)",
+        "two"
+      ],
+      [
+        "três",
+        "three"
+      ],
+      [
+        "quatro",
+        "four"
+      ],
+      [
+        "cinco",
+        "five"
+      ],
+      [
+        "seis",
+        "six"
+      ],
+      [
+        "sete",
+        "seven"
+      ],
+      [
+        "oito",
+        "eight"
+      ],
+      [
+        "nove",
+        "nine"
+      ],
+      [
+        "dez",
+        "ten"
+      ]
+    ],
+    "Additional Vocabulary – Vocabulário adicional": [
+      [
+        "agora",
+        "now"
+      ],
+      [
+        "amanhã",
+        "tomorrow"
+      ],
+      [
+        "o/a amigo, -a",
+        "friend"
+      ],
+      [
+        "aqui",
+        "here"
+      ],
+      [
+        "a aula",
+        "class"
+      ],
+      [
+        "bem",
+        "well"
+      ],
+      [
+        "bom (masc.), boa (fem.)",
+        "good"
+      ],
+      [
+        "bonito, -a",
+        "handsome/pretty"
+      ],
+      [
+        "o carro",
+        "car"
+      ],
+      [
+        "a casa",
+        "house"
+      ],
+      [
+        "cedo",
+        "early"
+      ],
+      [
+        "a cerveja",
+        "beer"
+      ],
+      [
+        "contente",
+        "happy, content"
+      ],
+      [
+        "depressa",
+        "quickly"
+      ],
+      [
+        "devagar",
+        "slowly"
+      ],
+      [
+        "o dia",
+        "day"
+      ],
+      [
+        "o dinheiro",
+        "money"
+      ],
+      [
+        "doente",
+        "sick"
+      ],
+      [
+        "e",
+        "and"
+      ],
+      [
+        "o exercício",
+        "exercise"
+      ],
+      [
+        "feio, -a",
+        "ugly"
+      ],
+      [
+        "frio, -a",
+        "cold"
+      ],
+      [
+        "hoje",
+        "today"
+      ],
+      [
+        "o homem",
+        "man"
+      ],
+      [
+        "a irmã",
+        "sister"
+      ],
+      [
+        "o irmão",
+        "brother"
+      ],
+      [
+        "os irmãos",
+        "brothers; brother(s) and sister(s)"
+      ],
+      [
+        "o lago",
+        "lake"
+      ],
+      [
+        "a mãe",
+        "mother"
+      ],
+      [
+        "mal",
+        "ailing; badly"
+      ],
+      [
+        "mas",
+        "but"
+      ],
+      [
+        "a mesa",
+        "table, desk"
+      ],
+      [
+        "a moça",
+        "girl"
+      ],
+      [
+        "muito (adv.)",
+        "very"
+      ],
+      [
+        "muito, -a (adj.)",
+        "much"
+      ],
+      [
+        "a mulher",
+        "woman"
+      ],
+      [
+        "não",
+        "no, not"
+      ],
+      [
+        "a noite",
+        "night"
+      ],
+      [
+        "o nome",
+        "name"
+      ],
+      [
+        "obrigado, -a",
+        "thank you"
+      ],
+      [
+        "ótimo, -a",
+        "wonderful, fine"
+      ],
+      [
+        "ou",
+        "or"
+      ],
+      [
+        "o pai",
+        "father"
+      ],
+      [
+        "os  pais",
+        "parents"
+      ],
+      [
+        "o/a parente",
+        "relative"
+      ],
+      [
+        "a porta",
+        "door"
+      ],
+      [
+        "quente",
+        "hot"
+      ],
+      [
+        "o rapaz",
+        "boy"
+      ],
+      [
+        "a sala de aula",
+        "classroom"
+      ],
+      [
+        "sim",
+        "yes"
+      ],
+      [
+        "simpático, -a",
+        "nice"
+      ],
+      [
+        "também",
+        "too, also"
+      ],
+      [
+        "tarde",
+        "late"
+      ],
+      [
+        "a tarde",
+        "afternoon"
+      ],
+      [
+        "o tempo",
+        "time; weather"
+      ],
+      [
+        "os tios",
+        "aunt(s) and uncle(s)"
+      ],
+      [
+        "triste",
+        "sad"
+      ]
+    ],
+    "Verbs – Verbos": [
+      [
+        "chegar",
+        "to arrive"
+      ],
+      [
+        "estar",
+        "to be"
+      ],
+      [
+        "ir",
+        "to go"
+      ],
+      [
+        "parar",
+        "to stop"
+      ],
+      [
+        "ser",
+        "to be"
+      ],
+      [
+        "ter",
+        "to have"
+      ],
+      [
+        "tomar",
+        "to take; have; drink; eat"
+      ],
+      [
+        "visitar",
+        "to visit"
+      ]
+    ],
+    "Interrogatives – Interrogativos": [
+      [
+        "Como …. ?",
+        "How …?"
+      ],
+      [
+        "Onde …. ?",
+        "Where …?"
+      ],
+      [
+        "Por que …. ?",
+        "Why …?"
+      ],
+      [
+        "O que …. ?",
+        "What …?"
+      ],
+      [
+        "Quem …. ?",
+        "Who …?"
+      ],
+      [
+        "Quando …. ?",
+        "When …?"
+      ]
+    ],
+    "Expressions – Expressões": [
+      [
+        "Bom dia",
+        "good morning"
+      ],
+      [
+        "Boa tarde",
+        "good afternoon"
+      ],
+      [
+        "Boa noite",
+        "good evening/night"
+      ],
+      [
+        "Como é seu nome?",
+        "What’s your name?"
+      ],
+      [
+        "De onde você é?",
+        "Where are you from?"
+      ],
+      [
+        "Faça o favor de (+ inf.)",
+        "Please …"
+      ]
+    ]
+  }
+}
