@@ -5,12 +5,15 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon src/app.js",
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "migrate:up": "npx sequelize-cli db:migrate",
+    "migrate:down": "npx sequelize-cli db:migrate:undo"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@sequelize/sqlite3": "^7.0.0-alpha.46",
     "axios": "^1.7.7",
     "cheerio": "^1.0.0",
     "dotenv": "^17.2.1",
