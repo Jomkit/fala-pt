@@ -7,7 +7,8 @@
     "dev": "nodemon src/app.js",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
     "migrate:up": "npx sequelize-cli db:migrate",
-    "migrate:down": "npx sequelize-cli db:migrate:undo"
+    "migrate:down": "npx sequelize-cli db:migrate:undo",
+    "get:vocab": "node ./scraper.js"
   },
   "author": "",
   "license": "ISC",

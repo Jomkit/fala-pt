@@ -1,6 +1,7 @@
 import axios from 'axios';
 import { load } from 'cheerio';
 import { readJsonFile, writeJsonFile } from './util/rw.js';
+import { argv } from "node:process";
 
 /**
  * Parses vocab entries to easily manipulate later
@@ -62,4 +63,11 @@ async function scrapeAndSaveVocab(lessonNumber) {
     scrapeVocab(lessonNumber).then( res => saveVocabToJson(res, lessonNumber));
 }
 
-scrapeAndSaveVocab(3);
+const lessonArg = argv[2];
+if(lessonArg) {
+    console.log("Scraping vocabulary...");
+    await scrapeAndSaveVocab(lessonArg);
+    console.log("Finished scraping");
+} else {
+    console.log("No designated lesson number -- please choose a lesson number");
+}
