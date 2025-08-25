@@ -4,7 +4,8 @@ import { resolve } from 'node:path';
 export async function readJsonFile(fileName) {
     const filePath = resolve("./save-data", fileName);
     const contents = await fs.readFile(filePath, 'utf-8');
-    console.log(contents);
+
+    return JSON.parse(contents);
 }
 
 export async function writeJsonFile(fileName, content) {

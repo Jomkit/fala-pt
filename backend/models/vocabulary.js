@@ -17,7 +17,8 @@ module.exports = (sequelize, DataTypes) => {
     name: DataTypes.STRING,
     lang1: DataTypes.STRING,
     lang2: DataTypes.STRING,
-    category: DataTypes.ENUM('noun', 'verb', 'adjective', 'expression', 'other')
+    wordClass: DataTypes.ENUM('noun', 'verb', 'adjective', 'expression', 'other'),
+    category: DataTypes.STRING,
   }, {
     sequelize,
     modelName: 'Vocabulary',
